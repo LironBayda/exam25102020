@@ -1,5 +1,5 @@
 # exam25102020
 
 שם החלק ומספר השאלה כתובים בשם הקובץ עבור רוב הקבצים.
-program,rational- חלק 3 שאלה 2
-חריגות- חלק 2 שאלה 3
+program,rational-part 3 q2
+exceptions-part 2 q3
